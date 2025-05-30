@@ -1,5 +1,4 @@
 
-``
 # Windows Firewall Configuration - Step-by-Step Guide
 
 ## Open Firewall Configuration Tool
